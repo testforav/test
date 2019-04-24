@@ -1,0 +1,12 @@
+{
+    "usd": "US Dollar",
+    "eur": "Euro",
+    "cny": "Chinese Yuan",
+    "gbp": "British Pound",
+    "inr": "Indian Rupee",
+    "aed": "Australian Dollars",
+    "btc": "Bitcoin",
+    "bch": "Bitcoin Cash",
+    "eth": "Ethereum",
+    "ltc": "Lightcoin"
+}
